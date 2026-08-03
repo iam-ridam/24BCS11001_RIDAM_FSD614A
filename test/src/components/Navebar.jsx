@@ -1,0 +1,7 @@
+// function Navebar({ user }) {
+
+//     return (
+//         <>
+//         </>
+//     )
+// }
